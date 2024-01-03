@@ -1,4 +1,6 @@
-### Hi there 👋
+### About Me
+I'm a computer science major at [Saint Francis University](
+https://en.wikipedia.org/wiki/Saint_Francis_University).
 
 <!--
 **zachary-krepelka/zachary-krepelka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
