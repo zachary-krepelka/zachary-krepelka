@@ -3,9 +3,9 @@
 I'm a computer science major at [Saint Francis University](
 https://en.wikipedia.org/wiki/Saint_Francis_University).
 
-I recently joined GitHub, and I am working on uploading some of my projects.
+I recently joined GitHub, and I'm working on uploading some of my projects.
 
-My New Year's Resolution is to explore new programming languages.
+My New Year's resolution is to explore and grow into new programming languages.
 
 <!--
 **zachary-krepelka/zachary-krepelka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
