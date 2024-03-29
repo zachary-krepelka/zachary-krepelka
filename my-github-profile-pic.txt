@@ -1,0 +1,43 @@
+% FILENAME: my-github-profile-pic.txt
+% AUTHOR: Zachary Krepelka
+% DATE: Thursday, March 28th, 2024
+
+	% My GitHub profile picture was programmatically generated using
+	% software that I wrote. This text file was the input passed into that
+	% software to generate the image. The following command was used.
+
+		% 	java -jar Fractal.jar
+		%
+		%		my-github-profile-pic.txt
+		%		my-github-profile-pic.png
+		%
+		% 			--no-metadata
+		% 			-size 500
+		% 			-scale 0.5
+		% 			-shift 1,1
+		% 			-max 256
+		% 			-shade
+		% 			-grade 0.97
+
+	% The image was chosen to be 500 by 500 pixels as per GitHub's
+	% suggestion, which I reproduce below.
+
+		% Note: Your profile picture should be a PNG, JPG, or GIF file,
+		% and it must be less than 1 MB in size and smaller than 3000 by
+		% 3000 pixels.  For the best quality rendering, we recommend
+		% keeping the image at about 500 by 500 pixels.
+
+% Polynomial
+z^8 + 15 * z^4 - 16
+
+% Roots
+-1                  0                 #FF6961
+ 1                  0                 #FFB480
+ 0                 -1                 #F8F38D
+ 0                  1                 #42D6A4
+-1.414213562373095 -1.414213562373095 #08CAD1
+ 1.414213562373095  1.414213562373095 #59ADF6
+ 1.414213562373095 -1.414213562373095 #9D94FF
+-1.414213562373095  1.414213562373095 #C780E8
+
+% Note that 1.414... = sqrt(2).
